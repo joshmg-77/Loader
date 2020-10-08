@@ -2,7 +2,7 @@
 
 
 
-##### preview [here](https://joshmg-ca.github.io/Loader/ "live demo") 
+##### Live [here](https://joshmg-ca.github.io/Loader/ "live demo") 
 
 
 
